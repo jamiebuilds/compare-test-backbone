@@ -1,0 +1,11 @@
+{
+  "challenge": "test",
+  "framework": "backbone",
+  "root": "/dist",
+  "assets": [
+    "index.html",
+    "javascripts/application.js",
+    "templates/application.html",
+    "stylesheets/application.css"
+  ]
+}
